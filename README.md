@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulGamarraDev
 - 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning Front End: HTML, CSS, JS(next) and React(next). Also learing git/github
+- 🌱 I’m currently learning Front End: HTML, CSS, JS(next) and React(next). Also learning git/github
 - 💞️ I’m looking to collaborate on real projects
 - 📫 How to reach me paulgamarra.dev@gmail.com
 
