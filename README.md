@@ -4,6 +4,7 @@ I'm building my path as FS Developer with LeWagon Web Development Bootcamp start
 Believer of continuous improvement and agile methodologies, I'm a self-organized and auto-motivated professional that enjoys working with people on multicultural environments.
 
 Reach me at paulgamarra.dev@gmail.com
+
 My professional background at www.linkedin.com/in/paul-andres-gamarra
 
 <!---
