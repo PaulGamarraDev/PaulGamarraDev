@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Paul Gamarra (@PaulGamarraDev), I'm working as project manager for the manufacturing industry and currently building my path as Full Stack Developer.
-- 👀 Over the last months I reviewed the programming concepts that I learnt as Mechatronic Engineer and started with HTML, CSS and JS basics.
-- 🌱 I'm looking forward to be part of a tech startup / big tech company adding business value, collaborating with others and learning through challenging projects.
-- 💞️ I truly believe in continuous improvement and agile methodologies, I'm a self-organized and auto-motivated professional that enjoys working with people on multicultural environments.
-- 📫 How to reach me paulgamarra.dev@gmail.com
+Hi, my name is Paul Gamarra (@PaulGamarraDev)
+
+I'm building my path as FS Developer with LeWagon Web Development Bootcamp starting point, I'm currently working as project manager at the manufacturing industry.
+Believer of continuous improvement and agile methodologies, I'm a self-organized and auto-motivated professional that enjoys working with people on multicultural environments.
+Reach me at paulgamarra.dev@gmail.com and see my professional background at www.linkedin.com/in/paul-andres-gamarra
 
 <!---
 PaulGamarraDev/PaulGamarraDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
