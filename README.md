@@ -1,6 +1,6 @@
 Hi, my name is Paul Gamarra (@PaulGamarraDev)
 
-I'm building my path as FS Developer with LeWagon Web Development Bootcamp starting point, I'm currently working as project manager at the manufacturing industry.
+I'm building my path as FS Developer with LeWagon Web Development Bootcamp as starting point, I'm currently working as project manager at the manufacturing industry.
 Believer of continuous improvement and agile methodologies, I'm a self-organized and auto-motivated professional that enjoys working with people on multicultural environments.
 
 Reach me at paulgamarra.dev@gmail.com
